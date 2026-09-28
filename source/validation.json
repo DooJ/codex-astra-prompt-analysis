@@ -1,0 +1,13 @@
+{
+  "source_commit": "080e8a04899e5f7db816ab8c7f11a587509c7995",
+  "source_sha256": "150822d0da1303b5c80180a0368bbb643a6943e1d755570c9069d51f487cfea0",
+  "source_lines": 5051,
+  "parts": 20,
+  "generated_markdown_files": 24,
+  "part_characters": 37327,
+  "combined_characters": 38289,
+  "checked_links": 309,
+  "checked_source_ranges": 60,
+  "duplicate_base_template_verified": true,
+  "errors": []
+}
